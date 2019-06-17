@@ -2235,3 +2235,9 @@ body.article .article-title h1.at-main-title {
 	text-align: right;
 }
 
+.content542298 img.catal-prd-main-media.ezimage-field {
+    display: none;
+}
+.content507655 .catal-edp-item:nth-child(2) img.catal-edp-img.ezimage-field {
+    display: none;
+}
